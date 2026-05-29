@@ -1,0 +1,18 @@
+# Keep the pre-refactor copy local, out of the published repo.
+*.original
+
+# Generated outputs (reproducible by running the simulation).
+outputs/*
+!outputs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

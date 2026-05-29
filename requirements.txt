@@ -1,0 +1,3 @@
+# Dependencies for the GOOGL Monte Carlo simulation.
+numpy>=1.24
+matplotlib>=3.7
